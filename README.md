@@ -1,4 +1,4 @@
-#jQuery Lite!
+#jQuery Lite! (building instructions)
 
 ## Overview
 Today we will be recreating most of the important functionality of the
